@@ -22,9 +22,9 @@ AMAZON_COUNTRY = "BR"
 # --- Configurações de e-mail (SMTP) ---
 SMTP_SERVER = "smtp.gmail.com"          # ou outro servidor SMTP
 SMTP_PORT = 587                         # 587 (TLS) é comum
-EMAIL_SENDER = "rcolares@gmail.com"    # e-mail que vai enviar
-EMAIL_PASSWORD = "Suplwrev09"  # use app password se for Gmail
-EMAIL_RECIPIENT = "rodrigoleaocolares@hotmail.com"
+EMAIL_SENDER = "email@gmail.com"    # e-mail que vai enviar
+EMAIL_PASSWORD = "Senha"  # use app password se for Gmail
+EMAIL_RECIPIENT = "email@destino"
 
 # --- Palavras-chave a pesquisar ---
 KEYWORDS = [
