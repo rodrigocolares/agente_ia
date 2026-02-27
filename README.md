@@ -6,7 +6,7 @@ Pega os melhores preços (menor preço por produto retornado).
 
 Gera um arquivo CSV.
 
-Envia esse CSV por e‑mail para rodrigoleaocolares@hotmail.com.
+Envia esse CSV por e‑mail para sua_conta@email.
 
 Vou usar:
 
